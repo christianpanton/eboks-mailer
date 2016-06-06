@@ -1,6 +1,8 @@
 e-Boks mailer
 =============
 
+*Notice: e-Boks turned off their mobile optimized website, hence this project is not up to date. Feel free to implement the app-API and submit a pull request*
+
 Fetch unread "e-Boks" messages and mail* them to yourself. 
 Useful in a closed ecosystem, where you control your own mail server.
 
